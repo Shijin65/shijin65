@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amith-kk&label=Profile%20views&color=0e75b6&style=flat" alt="amith-kk" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning MERN STACK<br>👯 I’m looking to collaborate on software development <br>🤝 I’m looking for developers who can learn with me <br>
+🌱 I’m currently learning MERN STACK<br>👯 I’m looking to collaborate on mern stack development <br>🤝 I’m looking for MERN STACK DEVELOPERS who can learn with me <br>
 📫reach me **shijincht65@gmail.com**
 
 # 💻 Main Stack:
